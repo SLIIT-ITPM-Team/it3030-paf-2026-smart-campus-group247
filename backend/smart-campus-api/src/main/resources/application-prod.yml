@@ -1,0 +1,11 @@
+spring:
+  profiles:
+    active: prod
+  datasource:
+    url: jdbc:mysql://prod-db-server:3306/smart_campus
+    username: prod_user
+    password: prod_password
+  jpa:
+    show-sql: false
+server:
+  port: 8080
