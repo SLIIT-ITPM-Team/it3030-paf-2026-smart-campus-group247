@@ -1,1 +1,1 @@
-// Axios configuration placeholder.
+// Axios configuration
